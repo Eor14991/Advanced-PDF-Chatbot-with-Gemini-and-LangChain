@@ -37,8 +37,6 @@ pdf-chatbot/
 │
 ├── faiss_index/              # Stores the local FAISS vector database
 ├── app.py                    # Main application logic and Chatbot class
-├── ui.py                     # Streamlit user interface components
-├── utils.py                  # Helper functions for PDF processing
 ├── requirements.txt          # Project dependencies
 └── README.md                 # This file
 
